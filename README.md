@@ -21,7 +21,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 [![Operation Flashpoint - Cold War Crisis 2001](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/operation-flashpoint-cold-war-crisis-cd-cover.jpg)](https://archive.org/details/Nova_OperationFlashpointCWCUSA)
 
 ## Bohemia Interactive Editing Tools Bundle 1.6gb
-[![Bohemia Interactive Editing Tools Bundle 1.6gb](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/wrpedit-0-93-beta.png)](https://archive.org/details/bohemia-interactive-editing-tools) 
+[![Bohemia Interactive Editing Tools Bundle 1.6gb](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/wrpedit-0-93-beta.png)](https://archive.org/details/bohemia-interactive-editing-tools) 
 
 
 ## opflash_-_uber_editor_tutorial
