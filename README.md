@@ -19,9 +19,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ---
 
-## Minimum Dev Environment
-
-> Everything above this is extra.
+## Dev Environment
 
 **Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
 [https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
@@ -49,6 +47,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 **logitec_mx_mouse_3_macos**
 [https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
 
 ---
 ## Quick Start
