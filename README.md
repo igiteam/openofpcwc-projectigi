@@ -17,6 +17,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 ## Repo (source)
 [https://github.com/igiteam/openofpcwr](https://github.com/igiteam/openofpcwr)
 
+
+[![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/opflash_-_uber_editor_tutorial_FlipBook/refs/heads/main/opflash_-_uber_editor_tutorial_page_1.png)]([](https://igiteam.github.io/opflash_-_uber_editor_tutorial_FlipBook/))
 ---
 
 ## Dev Environment
