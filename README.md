@@ -2,7 +2,40 @@
 
 This repository holds the engine and game source code (codename *Poseidon*) - the game first released in 2001 as *Operation Flashpoint: Cold War Crisis*. The code has been modernized to C++20, built with CMake and Clang, with cross-platform support for Windows x64 and Linux x64.
 
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/openofpcwr](https://treegit.macosxjs.com/?url=igiteam/openofpcwr)
 
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/openofpcwr/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/openofpcwr/git/trees/main?recursive=1)
+
+## Poseidon WASM (browser build)
+[https://motionmark.itch.io/poseidonwasm](https://motionmark.itch.io/poseidonwasm)
+
+## Operation Flashpoint: Cold War Crisis — the base engine
+[![Operation Flashpoint: Cold War Crisis](https://img.youtube.com/vi/placeholder/maxresdefault.jpg)](https://github.com/igiteam/openofpcwr)
+
+## Repo (source)
+[https://github.com/igiteam/openofpcwr](https://github.com/igiteam/openofpcwr)
+
+---
+
+## Minimum Dev Environment
+
+> Everything above this is extra.
+
+| Component | Item | Price | Link |
+|---|---|---|---|
+| Motion input | Official White Wii Remote With Nunchuk — Tested And Working | £14.99 | [eBay](https://www.ebay.co.uk/itm/800847189353) |
+| IR tracking | Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup | £6.69 | [eBay](https://www.ebay.co.uk/itm/227423830875) |
+| Host machine | Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M | £120.30 | [eBay](https://www.ebay.co.uk/itm/800844561513) |
+| Windows layer | WS11WineCX20.0.4 (Wine engine) | — | [igiteam.github.io/wine_engines](https://igiteam.github.io/wine_engines/) |
+| Gamepad | Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black | £19.99 | [eBay](https://www.ebay.co.uk/itm/840031043465) |
+| Display | Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p | £8.44 | [eBay](https://www.ebay.co.uk/itm/327352257557) |
+| Input tooling | wiimote_nunchuk_macosx | — | [GitHub](https://github.com/igiteam/wiimote-nunchuk) |
+| Input tooling | xbox360_input_gui_py | — | [GitHub](https://github.com/igiteam/xbox360_input_gui_py) |
+| Input tooling | logitec_mx_mouse_3_macos | — | [GitHub](https://github.com/igiteam/logitec_mx_mouse_3_macos) |
+
+---
 ## Quick Start
 
 ```sh
