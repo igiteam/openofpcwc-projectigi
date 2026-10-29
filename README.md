@@ -12,7 +12,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 [https://motionmark.itch.io/poseidonwasm](https://motionmark.itch.io/poseidonwasm)
 
 ## Operation Flashpoint: Cold War Crisis — the base engine
-[![Operation Flashpoint: Cold War Crisis](https://img.youtube.com/vi/placeholder/maxresdefault.jpg)](https://github.com/igiteam/openofpcwr)
+[![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/operation-flashpoint-find-the-car-mission.png)](https://github.com/igiteam/openofpcwr)
 
 ## Repo (source)
 [![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/Operation-Flashpoint-Cold-War-Crisis-Free.jpg)](https://github.com/igiteam/openofpcwr)
