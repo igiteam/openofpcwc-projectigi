@@ -18,7 +18,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 [![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/operation-flashpoint-find-the-car-mission.png)](https://www.youtube.com/watch?v=CH3JswOpzIQ)
 
 ## openofpcwc-projectigi
-[openofpcwc-projectigi](https://github.com/igiteam/openofpcwr)
+[https://github.com/igiteam/openofpcwc-projectigi](https://github.com/igiteam/openofpcwr)
 [![openofpcwc-projectigi](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/Operation-Flashpoint-Cold-War-Crisis-Free.jpg)](https://github.com/igiteam/openofpcwr)
 
 ## Operation Flashpoint - Cold War Crisis 2001
