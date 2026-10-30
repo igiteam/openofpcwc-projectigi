@@ -1,4 +1,4 @@
-# opencwc-projectigi
+# openofpcwc-projectigi
 ## Operation Flashpoint: Cold War Assault — Project I.G.I. Remake
 A total conversion project that fuses the open-world military sandbox of *Operation Flashpoint: Cold War Crisis* (2001) with the stealth-infiltration tension and close-quarters gunplay of *Project I.G.I.* (2000), built on the open-sourced Poseidon engine source.
 
@@ -17,8 +17,9 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 ## Operation Flashpoint: Cold War Crisis
 [![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/operation-flashpoint-find-the-car-mission.png)](https://www.youtube.com/watch?v=CH3JswOpzIQ)
 
-## Repo (source)
-[![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/Operation-Flashpoint-Cold-War-Crisis-Free.jpg)](https://github.com/igiteam/openofpcwr)
+## openofpcwc-projectigi
+[![openofpcwc-projectigi]](https://github.com/igiteam/openofpcwr)
+[![openofpcwc-projectigi](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/Operation-Flashpoint-Cold-War-Crisis-Free.jpg)](https://github.com/igiteam/openofpcwr)
 
 ## Operation Flashpoint - Cold War Crisis 2001
 [![Operation Flashpoint - Cold War Crisis 2001](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/operation-flashpoint-cold-war-crisis-cd-cover.jpg)](https://archive.org/details/Nova_OperationFlashpointCWCUSA)
