@@ -1,5 +1,8 @@
-# Operation Flashpoint: Cold War Assault
+# opencwc-projectigi
+## Operation Flashpoint: Cold War Assault — Project I.G.I. Remake
+A total conversion project that fuses the open-world military sandbox of *Operation Flashpoint: Cold War Crisis* (2001) with the stealth-infiltration tension and close-quarters gunplay of *Project I.G.I.* (2000), built on the open-sourced Poseidon engine source.
 
+## Operation Flashpoint: Cold War Assault
 This repository holds the engine and game source code (codename *Poseidon*) - the game first released in 2001 as *Operation Flashpoint: Cold War Crisis*. The code has been modernized to C++20, built with CMake and Clang, with cross-platform support for Windows x64 and Linux x64.
 
 ## Github Treeview
