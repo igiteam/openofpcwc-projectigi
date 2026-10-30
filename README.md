@@ -33,6 +33,9 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ---
 
+## Wiimote+Nunchuk, MX Mouse Keys, Xbox360 Controller
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
 ## Dev Environment
 
 **Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
