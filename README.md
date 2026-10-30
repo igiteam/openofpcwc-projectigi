@@ -20,6 +20,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
 ## openofpcwc-projectigi
 [https://github.com/igiteam/openofpcwc-projectigi](https://github.com/igiteam/openofpcwr)
 [![openofpcwc-projectigi](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/Operation-Flashpoint-Cold-War-Crisis-Free.jpg)](https://github.com/igiteam/openofpcwr)
@@ -29,7 +31,6 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ## Bohemia Interactive Editing Tools Bundle 1.6gb
 [![Bohemia Interactive Editing Tools Bundle 1.6gb](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/wrpedit-0-93-beta.png)](https://archive.org/details/bohemia-interactive-editing-tools) 
-
 
 ## opflash_-_uber_editor_tutorial
 [![opflash_-_uber_editor_tutorial](https://raw.githubusercontent.com/igiteam/opflash_-_uber_editor_tutorial_FlipBook/refs/heads/main/opflash_-_uber_editor_tutorial_page_1.png)](https://igiteam.github.io/opflash_-_uber_editor_tutorial_FlipBook/)
