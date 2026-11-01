@@ -37,6 +37,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [DigimaskPS2.txt](https://raw.githubusercontent.com/igiteam/postal2-half-dude-the-thing/refs/heads/main/digimaskps2.txt)
 
+[This is Football 2005 PS2 Digimask](https://archive.org/download/PS2_COLLECTION_PART25/This%20Is%20Football%202005%20%28Europe%29%20%28En%2CEs%2CPt%2CAr%29.zip)
+
 ## opflash_-_uber_editor_tutorial
 [![opflash_-_uber_editor_tutorial](https://raw.githubusercontent.com/igiteam/opflash_-_uber_editor_tutorial_FlipBook/refs/heads/main/opflash_-_uber_editor_tutorial_page_1.png)](https://igiteam.github.io/opflash_-_uber_editor_tutorial_FlipBook/)
 
