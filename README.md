@@ -42,6 +42,12 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 ## opflash_-_uber_editor_tutorial
 [![opflash_-_uber_editor_tutorial](https://raw.githubusercontent.com/igiteam/opflash_-_uber_editor_tutorial_FlipBook/refs/heads/main/opflash_-_uber_editor_tutorial_page_1.png)](https://igiteam.github.io/opflash_-_uber_editor_tutorial_FlipBook/)
 
+## Operation Flashpoint: Cold War Crisis Tutorials
+[https://archive.org/details/tutorials-ofp](https://archive.org/details/tutorials-ofp)
+[https://archive.org/details/rinza_ofp_tutorials_eng](https://archive.org/details/rinza_ofp_tutorials_eng)
+[Operation Flashpoint Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFTciA4gaSJ2w1PmcAfNo4Q)
+
+
 ---
 
 ## Quick Start
