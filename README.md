@@ -76,7 +76,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 **logitec_mx_mouse_3_macos**
 [https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
 
-
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
 ---
 ## Quick Start
 
