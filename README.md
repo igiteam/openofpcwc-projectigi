@@ -48,7 +48,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [https://archive.org/details/rinza_ofp_tutorials_eng](https://archive.org/details/rinza_ofp_tutorials_eng)
 
-[Operation Flashpoint Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFTciA4gaSJ2w1PmcAfNo4Q)
+[![Operation Flashpoint Tutorials](https://img.youtube.com/vi/Rce72rPMGu0/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFTciA4gaSJ2w1PmcAfNo4Q)
 
 
 ---
