@@ -24,6 +24,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ## openofpcwc-projectigi
 [https://github.com/igiteam/openofpcwc-projectigi](https://github.com/igiteam/openofpcwr)
+
 [![openofpcwc-projectigi](https://raw.githubusercontent.com/igiteam/openofpcwr/refs/heads/main/Operation-Flashpoint-Cold-War-Crisis-Free.jpg)](https://github.com/igiteam/openofpcwr)
 
 ## Operation Flashpoint - Cold War Crisis 2001
@@ -44,7 +45,9 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ## Operation Flashpoint: Cold War Crisis Tutorials
 [https://archive.org/details/tutorials-ofp](https://archive.org/details/tutorials-ofp)
+
 [https://archive.org/details/rinza_ofp_tutorials_eng](https://archive.org/details/rinza_ofp_tutorials_eng)
+
 [Operation Flashpoint Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFTciA4gaSJ2w1PmcAfNo4Q)
 
 
