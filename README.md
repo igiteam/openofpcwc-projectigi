@@ -50,6 +50,10 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [![Operation Flashpoint Tutorials](https://img.youtube.com/vi/Rce72rPMGu0/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFTciA4gaSJ2w1PmcAfNo4Q)
 
+[https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
+
+[![Project IGI - I'm Going In](https://archive.org/download/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG/Eidos%20Project%20IGI%20Im%20Going%20In%20-%20CD.jpg)](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
+
 
 ---
 
