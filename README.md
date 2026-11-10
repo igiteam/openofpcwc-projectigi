@@ -5,6 +5,9 @@ A total conversion project that fuses the open-world military sandbox of *Operat
 ## Operation Flashpoint: Cold War Crisis
 This repository holds the engine and game source code (codename *Poseidon*) - the game first released in 2001 as *Operation Flashpoint: Cold War Crisis*. The code has been modernized to C++20, built with CMake and Clang, with cross-platform support for Windows x64 and Linux x64.
 
+## Github Codespace
+[https://petrifying-spirit-9gpgpv4vg7vcvww.github.dev/](https://petrifying-spirit-9gpgpv4vg7vcvww.github.dev/)
+
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/openofpcwr](https://treegit.macosxjs.com/?url=igiteam/openofpcwr)
 
