@@ -55,6 +55,48 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 [![Project IGI - I'm Going In](https://archive.org/download/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG/Eidos%20Project%20IGI%20Im%20Going%20In%20-%20CD.jpg)](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
 
+## Project I.G.I. (2000) to Operation Flashpoint: Cold War Crisis
+
+Format conversion map for the `opencwc-projectigi` total conversion.
+
+---
+
+## Conversion Map
+
+| IGI 1 Format | IGI Role | OFP CWC Target | OFP Role | Difficulty | Notes |
+|---|---|---|---|---|---|
+| `.hmp` | Terrain heightmap tiles (16-bit elevation) | `.wrp` (4WVR) Elevations | Terrain height data | Medium | OFP stores elevations as ushort in cm. Convert IGI grid to `Elevations[Ysize][Xsize]`; `RealHeight = value * 0.05` for metres. |
+| `.lmp` | Terrain grayscale lightmap (8-bit) | `.wrp` TextureIndex | Per-cell texture reference | High | No direct OFP terrain-lightmap slot in 4WVR. Bake into textures, discard, or approximate. |
+| `.ctr` + `.cmd` | Terrain octree + mesh LOD commands | `.wrp` terrain grid (implicit) | Fixed 256x256 cell grid | High | No direct mapping. Flatten the IGI octree into a uniform heightmap before export. LOD structure is discarded. |
+| `.bit` | Terrain 1-bit raycast mask | `.wrp` collision (implicit) | Collision from heightmap | Low | Not needed as a separate asset; OFP derives collision from the heightmap. Use only to verify accuracy. |
+| `.mef` | 3D model geometry | `.p3d` (ODOL7) | Model geometry | High | MEF type versions (32B/40B) have no direct P3D equivalent. Requires Oxygen 2 or Oxygen Light. Scale conversion needed. |
+| `.tex` | Texture bitmaps | `.paa` / `.pac` | OFP textures | Medium | Convert to PAA/PAC. OFP `.wrp` references textures in a 512-entry table of 32-byte ASCIIZ filenames. |
+| `.olm` | Object static lightmaps | `.p3d` vertex lighting / `.paa` baked | Object lighting | High | No direct slot; rebake lighting in Oxygen or export as texture overlays. |
+| `.mtp` | Model-texture package | `.p3d` + `.paa` | Model material assignment | Medium | Reconstruct material mappings in Oxygen's P3D structure. |
+| `.graph` / `.dat` | AI navigation graph | OFP AI (no direct file) | Engine-internal pathfinding | Very High | No external navmesh format. Discard AI paths or approximate via mission-editor waypoints. |
+| `.qvm` / `.qsc` | Script bytecode / source | `.sqs` / `.sqf` | OFP scripting | Very High | QVM opcodes unrelated to SQF/SQS. Scripts must be rewritten, not converted. |
+| `.spr` | 2D billboarding sprites | `.paa` with alpha | Textured quads | Medium | Export as PAA, place as P3D quads with `ViewDensity` transparency. |
+| `.pic` | Static menu pictures | `.paa` | UI textures | Low | Direct image conversion. |
+| `.fnt` | Bitmap font atlas | OFP fonts (`.fxy` + `.paa`) | UI text | Medium | OFP uses FXY descriptor + PAA atlas; remap glyphs. |
+| `.iff` / `.bef` | Skeletal animation | `.rtm` | Animation | Very High | Must be retargeted / re-authored in Oxygen. |
+| `.wav` | Innerloop audio samples | `.wss` (or OGG) | Audio | Medium | Convert to WSS or OGG depending on OFP version support. |
+| `.afp` / `.avi` | Video / intro packages | `.ogv` | OFP cutscenes | Low | Re-encode to Theora/OGV. |
+| `.res` | Resource archive | `.pbo` | Addon archive | Medium | Repack converted assets into PBO via MakePbo or BinPbo. |
+
+---
+
+## Key Conversion Constraints
+
+1. **Terrain is the hardest bottleneck.** OFP's `.wrp` format is strictly a 256x256 uniform grid with per-cell texture indices. IGI's octree-based LOD terrain (`.ctr`/`.cmd`) must be baked down to a flat heightmap. You lose IGI's LOD optimization — the OFP terrain will be simpler but will load and render in the CWR engine.
+
+2. **Models must go through Oxygen.** There is no direct MEF-to-P3D converter. You need Bohemia's Oxygen 2 (or Oxygen Light) to author `.p3d` files. If the IGI `.mef` can be exported to an intermediate format (OBJ/3DS), it can then be imported into Oxygen. Note that 3DS-to-P3D conversion requires a 10x scale increase.
+
+3. **Binarize for final packaging.** After authoring `.wrp` in 4WVR (via WrpTool/Visitor) and `.p3d` in Oxygen, use Binarize to convert to engine-optimized OPRW/ODOL formats. Use the old Binarize for `.wrp` islands and the new Binarize for `.p3d` models.
+
+4. **Scripts and AI are not convertible.** QVM bytecode has no mapping to SQF. AI navigation (`.graph`) has no file-level counterpart. These must be reimplemented — which is why this is a total conversion, not a port.
+
+5. **The `Project-IGI-Terrain/` folder already handles the terrain path.** That code parses `.hmp`/`.lmp`/`.ctr`/`.cmd`/`.bit` — it is the source side of the terrain conversion. The missing piece is the export step: a 4WVR `.wrp` writer that emits the OFP header, elevation array, texture index array, texture filename table, and model list.
+6. 
 ---
 
 ## Quick Start
