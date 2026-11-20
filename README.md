@@ -52,7 +52,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
-[https://github.com/igiteam/openofpcwc-projectigi/blob/main/project-igi/README.md](https://github.com/igiteam/openofpcwc-projectigi/blob/main/project-igi/README.md)
+## PROJECT I.G.I
+[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md)
 
 ![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
 
