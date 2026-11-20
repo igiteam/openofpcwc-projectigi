@@ -65,6 +65,9 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
 
+[![im-going-in-ost - Full Playlist](https://img.youtube.com/vi/8lr3u70FB9c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OGxyM3U3MEZCOWM)
+
+
 ## Project I.G.I. (2000) to Operation Flashpoint: Cold War Crisis
 
 Format conversion map for the `opencwc-projectigi` total conversion.
