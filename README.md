@@ -58,8 +58,6 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [![Operation Flashpoint's Next-Gen Face Tech](https://img.youtube.com/vi/2PHcMut5Ges/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlBIY011dDVHZXM)
 
-[![huey](https://img.youtube.com/vi/0H9-PBOQ7Q0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MEg5LVBCT1E3UTA)
-
 [![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
 
 [![im-going-in-ost - Full Playlist](https://img.youtube.com/vi/8lr3u70FB9c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OGxyM3U3MEZCOWM)
