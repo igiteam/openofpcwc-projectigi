@@ -52,7 +52,7 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
-[![Project IGI - I'm Going In](https://archive.org/download/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG/Eidos%20Project%20IGI%20Im%20Going%20In%20-%20CD.jpg)](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
+[https://github.com/igiteam/openofpcwc-projectigi/blob/main/project-igi/README.md](https://github.com/igiteam/openofpcwc-projectigi/blob/main/project-igi/README.md)
 
 ![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
 
@@ -65,6 +65,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 [![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
 
 [![im-going-in-ost - Full Playlist](https://img.youtube.com/vi/8lr3u70FB9c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OGxyM3U3MEZCOWM)
+
+[![Project IGI - I'm Going In](https://archive.org/download/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG/Eidos%20Project%20IGI%20Im%20Going%20In%20-%20CD.jpg)](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
 
 ## Project I.G.I. (2000) to Operation Flashpoint: Cold War Crisis
