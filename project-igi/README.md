@@ -1,8 +1,4 @@
-# Project I.G.I. Remake — Story & Characters
-
-> A fan remake of **Project I.G.I.** (Innerloop Studios / Eidos, 2000), rebuilt with Vietcong-style first-person cinematics, Rainbow Six Vegas-style locked-perspective dialogue, Operation Flashpoint-style multiplayer (players can stand or sit in helicopters), and modern AI.
-
----
+# Project I.G.I. — Story & Characters & Missions
 
 ## The Story, Mission by Mission
 
@@ -18,7 +14,9 @@ The trail runs from **Josef Priboi** to his uncle **Jach**, the arms dealer who 
 
 The game opens with a caption, **"Somewhere in Russia."**, and a man named Priboi questioning a prisoner. He asks a guard *"Is he still not talking?"*, hears *"No, he's a tough one"*, and answers *"Now let's do it my way."* The subtitles never say which Priboi it is.
 
-### The Remake's Opening (New)
+[![project-igi-intro-hd-4k](https://img.youtube.com/vi/4ihHF2aNWfg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NGloSEYyYU5XZmc)
+
+### Operation Flashpoint: Cold War Crisis — Project I.G.I. Remake (New)
 
 **EXT. HELICOPTER → INT. HELICOPTER**
 
