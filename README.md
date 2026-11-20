@@ -59,6 +59,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
 
+[![huey](https://img.youtube.com/vi/0H9-PBOQ7Q0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MEg5LVBCT1E3UTA)
+
 [![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
 
 ## Project I.G.I. (2000) to Operation Flashpoint: Cold War Crisis
