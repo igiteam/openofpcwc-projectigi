@@ -63,6 +63,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [![Operation Flashpoint - The Battlefield single mission](https://img.youtube.com/vi/iPYzY-t2Rg8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aVBZelktdDJSZzg)
 
+[![Project IGI 1 - Mission 1 - Trainyard](https://img.youtube.com/vi/Klye7EYRa00/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S2x5ZTdFWVJhMDA)
+
 [![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
 
 [![im-going-in-ost - Full Playlist](https://img.youtube.com/vi/8lr3u70FB9c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OGxyM3U3MEZCOWM)
