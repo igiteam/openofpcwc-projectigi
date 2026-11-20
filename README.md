@@ -56,6 +56,8 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 ![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
 
+[![project-igi-intro-hd-4k](https://img.youtube.com/vi/4ihHF2aNWfg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NGloSEYyYU5XZmc)
+
 [![Operation Flashpoint's Next-Gen Face Tech](https://img.youtube.com/vi/2PHcMut5Ges/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlBIY011dDVHZXM)
 
 [![Operation Flashpoint - The Battlefield single mission](https://img.youtube.com/vi/iPYzY-t2Rg8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aVBZelktdDJSZzg)
