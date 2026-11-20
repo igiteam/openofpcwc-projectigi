@@ -100,7 +100,7 @@ Format conversion map for the `opencwc-projectigi` total conversion.
 4. **Scripts and AI are not convertible.** QVM bytecode has no mapping to SQF. AI navigation (`.graph`) has no file-level counterpart. These must be reimplemented — which is why this is a total conversion, not a port.
 
 5. **The `Project-IGI-Terrain/` folder already handles the terrain path.** That code parses `.hmp`/`.lmp`/`.ctr`/`.cmd`/`.bit` — it is the source side of the terrain conversion. The missing piece is the export step: a 4WVR `.wrp` writer that emits the OFP header, elevation array, texture index array, texture filename table, and model list.
-6. 
+
 ---
 
 ## Quick Start
