@@ -87,6 +87,32 @@ Format conversion map for the `opencwc-projectigi` total conversion.
 | `.afp` / `.avi` | Video / intro packages | `.ogv` | OFP cutscenes | Low | Re-encode to Theora/OGV. |
 | `.res` | Resource archive | `.pbo` | Addon archive | Medium | Repack converted assets into PBO via MakePbo or BinPbo. |
 
+## IGI 2 Format Specification Links
+
+Base URL: [https://project-igi-research.vercel.app/igi2](https://project-igi-research.vercel.app/igi2)
+
+| Format | Name | Engine Role | Specification |
+|---|---|---|---|
+| `.qvm` | QVM | Script Bytecode | [View Specification](https://project-igi-research.vercel.app/igi2/qvm) |
+| `.qsc` | QSC | Script Source Language | [View Specification](https://project-igi-research.vercel.app/igi2/qsc) |
+| `.res` | RES | Resource Archive | [View Specification](https://project-igi-research.vercel.app/igi2/res) |
+| `.mef` | MEF | 3D Model Geometry | [View Specification](https://project-igi-research.vercel.app/igi2/mef) |
+| `.tex` | TEX | Texture Cascades | [View Specification](https://project-igi-research.vercel.app/igi2/tex) |
+| `.spr` | SPR | Particle Sprites | [View Specification](https://project-igi-research.vercel.app/igi2/spr) |
+| `.pic` | PIC | High-Res UI Bitmaps | [View Specification](https://project-igi-research.vercel.app/igi2/pic) |
+| `.mtp` | MTP | Model-Texture Package | [View Specification](https://project-igi-research.vercel.app/igi2/mtp) |
+| `.dat` | DAT | Asset & Graph Tables | [View Specification](https://project-igi-research.vercel.app/igi2/dat) |
+| `.fnt` | FNT | Multi-Lingual Font Atlas | [View Specification](https://project-igi-research.vercel.app/igi2/fnt) |
+| `.iff` | IFF | Skeletal Animation | [View Specification](https://project-igi-research.vercel.app/igi2/iff) |
+| `.olm` | OLM | Multi-Layer Lightmaps | [View Specification](https://project-igi-research.vercel.app/igi2/olm) |
+| `.thm` | THM | Terrain Heightmap Metadata | [View Specification](https://project-igi-research.vercel.app/igi2/thm) |
+| `.tlm` | TLM | Full RGBA Terrain Lightmaps | [View Specification](https://project-igi-research.vercel.app/igi2/tlm) |
+| `.tmm` | TMM | Terrain Material Physics | [View Specification](https://project-igi-research.vercel.app/igi2/tmm) |
+| `.forest` | Forest | Vegetation Placements | [View Specification](https://project-igi-research.vercel.app/igi2/forest) |
+| `.syn` | SYN | Synchronization Timelines | [View Specification](https://project-igi-research.vercel.app/igi2/syn) |
+| `.wav` | WAV | Innerloop Audio Samples | [View Specification](https://project-igi-research.vercel.app/igi2/wav) |
+| `.mp3` / `.bmp` / `.jpg` | MP3/BMP/JPG | Modern Media Formats | [View Specification](https://project-igi-research.vercel.app/igi2/mp3-bmp-jpg) |
+
 ---
 
 ## Key Conversion Constraints
