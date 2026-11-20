@@ -204,3 +204,187 @@ The villain, a hard-line nationalist running her own operation from an old KGB c
 
 Leader of the backup team, call sign **Moses**. He leads the prison assault and the limo ambush.
 
+# Project I.G.I. — Missions
+
+Every briefing and objective, exactly as the games list them.
+
+- [Project I.G.I. — 14 Missions](https://playigi.com/missions.html#igi1)
+- [IGI 2: Covert Strike — 19 Missions](https://playigi.com/missions.html#igi2)
+
+---
+
+## Mission 01 / 14 — Trainyard
+
+[![Trainyard](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m01.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m01.png)
+
+*Small coastline trainyard*
+
+1. Steal the truck near the main entrance.
+
+---
+
+## Mission 02 / 14 — SAM Base
+
+[![SAM Base](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m02.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m02.png)
+
+*Small missile defence base*
+
+1. Locate and retrieve the C4 charges from the warehouse.
+2. Place one charge on each of the SAM launchers.
+3. Proceed to the extraction point.
+
+---
+
+## Mission 03 / 14 — Military Airbase
+
+[![Military Airbase](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m03.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m03.png)
+
+*Rescue Josef from the airbase*
+
+1. Locate and rescue Josef Priboi from inside the security building.
+2. Escort Josef Priboi to the extraction point.
+3. Find Josef Priboi's new position by checking the flight logs in the control tower.
+4. Escape by stealing one of the fighter jets.
+
+---
+
+## Mission 04 / 14 — GOD
+
+[![GOD](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m04.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m04.png)
+
+*Defend the friendly troops*
+
+1. Secure the village and climb the water tower ready to cover the friendly troops.
+2. Provide cover for the friendly troops until Josef has been freed.
+
+---
+
+## Mission 05 / 14 — Radar Base
+
+[![Radar Base](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m05.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m05.png)
+
+*Disrupt Jach's communications network*
+
+1. Locate the radar dome keycard.
+2. Insert the virus into the radar dome terminal.
+3. Secure the extraction zone.
+
+---
+
+## Mission 06 / 14 — Get Priboi
+
+[![Get Priboi](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m06.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m06.png)
+
+*Kidnap Jach from his base*
+
+1. Obtain explosives from his main warehouse.
+2. Shutdown generator - to disarm electric fence.
+3. Set charges on fuel dump to make Priboi flee the saftey of his warehouse.
+4. Search all filing cabinetts for encriminating evidence.
+
+---
+
+## Mission 07 / 14 — Border Crossing
+
+[![Border Crossing](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m07.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m07.png)
+
+*Get Jones across the border*
+
+1. Infiltrate border crossing.
+2. Alarm must not be raised when you get into truck.
+3. Pass the security checkpoint.
+4. Infiltrate bordercrossing.
+5. Get to truck crossing border before timer expires.
+
+---
+
+## Mission 08 / 14 — Re-supply
+
+[![Re-supply](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m08.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m08.png)
+
+*Get Jones' equipment back*
+
+1. Escape from infantry base.
+2. Infiltrate tank maintenance yard, and gain access to ammo storage building.
+3. Obtain map computer and homing beacon.
+4. Fix and set homing beacon on SAM launcher for airstrike.
+5. Infiltrate listening post and radar.
+6. Move to ERV.
+
+---
+
+## Mission 09 / 14 — Missile Trainyard
+
+[![Missile Trainyard](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m09.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m09.png)
+
+*Get on the train*
+
+1. Enter base and disarm security system.
+2. Enter high security compound and board train.
+3. Eliminate all resistance.
+
+---
+
+## Mission 10 / 14 — Defend Priboi
+
+[![Defend Priboi](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m10.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m10.png)
+
+*Take Jach to the FRV*
+
+1. Obtain proximity mines from storage depot.
+2. To proceed to highest building in abandoned village and await evacuation.
+
+---
+
+## Mission 11 / 14 — Eagle's Nest I
+
+[![Eagle's Nest I](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m11.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m11.png)
+
+*The approach to Ekk's fortress*
+
+1. Locate and retrieve the sniper rifle.
+2. Power up the cable car by switching the generator back on.
+3. Activate the cable car controls.
+
+---
+
+## Mission 12 / 14 — Eagle's Nest II
+
+[![Eagle's Nest II](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m12.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m12.png)
+
+*Ekk's hilltop fortress*
+
+1. Locate the bomb and disable it, Find Ekk and kill her.
+
+---
+
+## Mission 13 / 14 — Nuclear Infiltration
+
+[![Nuclear Infiltration](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m13.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m13.png)
+
+*Infiltrate the nuclear base*
+
+1. Penetrate the perimeter.
+2. Secure deployment zone for Anya and friendly forces.
+3. Power on the Generator in the Generator building.
+4. Turn on the transformator in the large storage building.
+5. Open the doors for the weapons factory.
+6. Get trough the weapons factory.
+7. Get past the entrance to the cooling tower section without the alarm going off...
+8. Enter the Underground complex.
+
+---
+
+## Mission 14 / 14 — Finding the bomb
+
+[![Finding the bomb](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m14.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m14.png)
+
+*Kill Ekk and find the bomb*
+
+1. Find Ekk and kill her.
+2. Locate the bomb and disable it.
+
+---
+
+*Project I.G.I. © Innerloop Studios / Eidos Interactive, 2000.*
+
