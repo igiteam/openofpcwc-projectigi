@@ -15,7 +15,26 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 [https://motionmark.itch.io/poseidonwasm](https://motionmark.itch.io/poseidonwasm)
 
 ## Operation Flashpoint: Cold War Crisis
-[![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/operation-flashpoint-find-the-car-mission.png)](https://www.youtube.com/watch?v=CH3JswOpzIQ)
+[![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/operation-flashpoint-find-the-car-mission.png)](https://ytembed.macosxjs.com/?Q0gzSnN3T3B6SVE)
+
+## PROJECT I.G.I
+[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md)
+
+![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
+
+[![project-igi-intro-hd-4k](https://img.youtube.com/vi/4ihHF2aNWfg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NGloSEYyYU5XZmc)
+
+[![Operation Flashpoint's Next-Gen Face Tech](https://img.youtube.com/vi/2PHcMut5Ges/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlBIY011dDVHZXM)
+
+[![Operation Flashpoint - The Battlefield single mission](https://img.youtube.com/vi/iPYzY-t2Rg8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aVBZelktdDJSZzg)
+
+[![Project IGI 1 - Mission 1 - Trainyard](https://img.youtube.com/vi/Klye7EYRa00/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S2x5ZTdFWVJhMDA)
+
+[![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
+
+[![im-going-in-ost - Full Playlist](https://img.youtube.com/vi/8lr3u70FB9c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OGxyM3U3MEZCOWM)
+
+[![Project IGI - I'm Going In](https://archive.org/download/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG/Eidos%20Project%20IGI%20Im%20Going%20In%20-%20CD.jpg)](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -52,24 +71,6 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 
 [https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
-## PROJECT I.G.I
-[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md)
-
-![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
-
-[![project-igi-intro-hd-4k](https://img.youtube.com/vi/4ihHF2aNWfg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NGloSEYyYU5XZmc)
-
-[![Operation Flashpoint's Next-Gen Face Tech](https://img.youtube.com/vi/2PHcMut5Ges/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlBIY011dDVHZXM)
-
-[![Operation Flashpoint - The Battlefield single mission](https://img.youtube.com/vi/iPYzY-t2Rg8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?aVBZelktdDJSZzg)
-
-[![Project IGI 1 - Mission 1 - Trainyard](https://img.youtube.com/vi/Klye7EYRa00/maxresdefault.jpg)](https://ytembed.macosxjs.com/?S2x5ZTdFWVJhMDA)
-
-[![igi heightmap](https://img.youtube.com/vi/eHjKLL0YQHA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZUhqS0xMMFlRSEE)
-
-[![im-going-in-ost - Full Playlist](https://img.youtube.com/vi/8lr3u70FB9c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OGxyM3U3MEZCOWM)
-
-[![Project IGI - I'm Going In](https://archive.org/download/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG/Eidos%20Project%20IGI%20Im%20Going%20In%20-%20CD.jpg)](https://archive.org/details/Eidos_Project_IGI_Im_Going_In_Windows_2001_ENG)
 
 
 ## Project I.G.I. (2000) to Operation Flashpoint: Cold War Crisis
