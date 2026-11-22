@@ -52,6 +52,9 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 ## Bohemia Interactive Editing Tools Bundle 1.6gb
 [![Bohemia Interactive Editing Tools Bundle 1.6gb](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/wrpedit-0-93-beta.png)](https://archive.org/details/bohemia-interactive-editing-tools) 
 
+[https://github.com/igiteam/project-igi-tools](https://github.com/igiteam/project-igi-tools)
+
+
 ## Digimask SDK
 [![Digimask SDK](https://raw.githubusercontent.com/igiteam/postal2-half-dude-the-thing/refs/heads/main/digimask-wireframe.png)](https://archive.org/details/digimask-launchpad2-2002)
 
