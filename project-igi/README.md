@@ -32,6 +32,128 @@ Then transition to gameplay. In multiplayer, other characters can stand or sit i
 
 ---
 
+# Project IGI Missions
+
+## Original Sequence (with new missions inserted)
+1. Trainyard
+2. SAM Base
+3. Military Airbase
+4. **Eagle’s Inferno** *(NEW MISSION)*
+5. **Landing Protocol** *(NEW MISSION)*
+6. **Base of Operations** *(NEW MISSION)*
+7. GOD
+8. Radar Base
+9. Get Priboi
+10. Border Crossing
+11. Re-Supply
+12. Missile Trainyard
+13. Defend Priboi
+14. Eagle's Nest I
+15. Eagle's Nest II
+16. Nuclear Infiltration
+17. Finding The Bomb
+
+---
+
+## Mission 4: "Eagle’s Inferno"
+
+**Technical Note:** Introduces `airplane_dm.pk3`
+
+### Mission Context
+At the conclusion of Mission 3, Jones steals an enemy fighter jet to escape hostile territory. However, the enemy quickly mobilizes their air force to intercept him. To ensure his survival, Jones must navigate treacherous airspace, evade advanced defenses, and engage in a high-stakes dogfight.
+
+### Mission Objectives
+* **Phase 1: Escape the Airbase Airspace**
+  * **Takeoff Under Fire:** Jones starts in the cockpit with alarms blaring. Enemy ground forces fire small arms and SAM missiles as Jones powers up the jet and takes off. A cinematic moment showcases Jones narrowly avoiding a missile barrage as he clears the airbase.
+* **Phase 2: Survive the Skies**
+  * **Dogfight with Interceptors:** Engage in a thrilling aerial battle against enemy fighters. Use machine guns, flares, and limited homing missiles to outmaneuver enemies.
+* **Phase 3: Destroy Key Targets**
+  * **Bomb Enemy Defenses:** A radar station and SAM site block Jones’s route to safety. Perform high-speed bombing runs while evading enemy anti-aircraft fire.
+* **Phase 4: Final Escape**
+  * **Run the Canyon:** Fly through a winding canyon to avoid radar detection. Evade final enemy fighters and automated turrets. After clearing the canyon, transition into a cinematic where Jones flies into friendly airspace.
+
+### Gameplay Features
+#### Flight Controls (Simplified for Accessibility)
+* **Rolls and Yaws:** Maneuver to avoid missiles or line up targets.
+* **Speed Boost:** Short bursts for tactical advantage.
+* **Countermeasures:** Deploy flares to throw off heat-seeking missiles.
+
+#### Weapons
+* **Machine Guns:** Unlimited ammo with a moderate cooldown.
+* **Homing Missiles:** Limited supply for dogfights.
+* **Bombs:** Manual targeting for ground objectives.
+
+#### Dynamic Encounters
+* Intense enemy chatter and taunts over the radio.
+* Missile lock warnings and near-miss effects to heighten tension.
+* A dramatic scripted sequence where Jones narrowly avoids a crashing enemy jet or an exploding SAM.
+
+### Key Cinematic Moments
+1. **Takeoff:** Jones narrowly escapes ground fire and missiles as he speeds down the runway. A cinematic angle shows him lifting off with explosions in the background.
+2. **Dogfight Highlight:** A scripted moment where Jones performs a daring maneuver, such as flying through a cloudbank to lose a lock-on or baiting two jets to collide midair.
+3. **Canyon Escape:** As Jones zips through the canyon, a near-miss with falling debris or collapsing rock formations adds cinematic drama.
+4. **Mission End:** Jones enters friendly airspace with a triumphant view of safety ahead. The camera pans to show the enemy’s pursuit behind him.
+
+### Transition to Mission 5
+The mission concludes as Jones's jet takes a direct hit from enemy fire during his final escape. With critical systems failing, he’s forced to eject mid-flight.
+
+---
+
+## Mission 5: "Landing Protocol"
+
+**Technical Note:** Introduces `ai_dogs_partol` and utilizes built-in airborne mechanics from *MOH: Spearhead*.
+
+### Loading Screen & Intro
+Using the built-in airborne mechanics from *MOH: Spearhead*, the game resumes mid-air: the camera follows Jones as he catapults from the burning jet. The parachute deploys automatically, offering a sweeping cinematic view of the wreckage crashing nearby in the distance. The player is forced to land near the smoke plume, setting the stage.
+
+* **Mission Log Appears:** *Objective: Escape from enemy territory*
+* **Ambient SFX:** Dogs barking, wind howling, distant shouts.
+
+### Gameplay Begins
+Jones has crash-landed deep in enemy territory with only the gear he managed to hold onto. He must stay on the move as relentless enemy patrols and trained German Shepherds hunt him down. The area is crawling with enemy scouts, and the perimeter is tightening with each passing minute. In the distance, Jones spots a radio tower—his only chance to signal for extraction before he’s surrounded.
+
+### Mission Flow
+* **Opening Scene:** The plane is hit mid-air. Jones is ejected and parachutes down nearby as the plane crash-lands. Smoke billows from the wreckage.
+* **Mission Start:** 
+  * *Mission Log:* “Escape from enemy territory.”
+  * *Ambient Sound:* Dogs barking, distant enemy patrols.
+* **Objectives:**
+  1. Navigate the hostile terrain under pressure from enemy patrols and tracking dogs.
+  2. Reach the radio tower and use it to send an emergency extraction signal.
+  3. After activating the radio, destroy the equipment to avoid enemy interception.
+  4. Make your way to the extraction point before enemy forces close in.
+
+---
+
+## Mission 6: "Base of Operations"
+
+* **Location:** IGI Command Base
+* **Tone:** Low-intensity, semi-interactive, character-driven
+* **Technical Note:** Utilizes `test_door.pk3`
+
+### Mission Context
+After narrowly escaping from behind enemy lines, Jones is flown back to the IGI base for debriefing and resupply. This interlude offers downtime for the player to explore, test gear, and interact with allies before the next major op.
+
+### Mission Goals
+1. **Debriefing:**
+   * Meet with Anya and the commander for a short debriefing on the previous mission.
+2. **Gear Customization / Shooting Range (Optional):**
+   * Try out weapons in the shooting range.
+   * Participate in target challenges, time trials, or accuracy tests (`test_door.pk3`).
+3. **Story Expansion (Optional Dialogues):**
+   * Short conversations with allies about upcoming threats or previous ops.
+   * Jones might reflect on how close the last mission was to failure.
+   * Intel officer mentions a “black site” called G.O.D starting to go dark.
+4. **Prep for Next Mission:**
+   * Collect updated briefing for Mission 7: **GOD**.
+
+### Gameplay Style & Narrative Function
+* **Gameplay Style:** Exploratory and non-linear with no combat pressure. Allows the player to catch their breath, engage in light narrative, and test game mechanics in a sandbox environment.
+* **Narrative Function:**
+  * Provides pacing before the intensity of *GOD*.
+  * Builds immersion in the IGI world and base infrastructure.
+  * Allows technical systems like weapon upgrades or new gadgets to be introduced in a natural, player-friendly way.
+
 ## Part One: Finding Josef (Missions 1–3)
 
 ### Mission 1 — Trainyard
