@@ -1,12 +1,34 @@
-# Project I.G.I. — Story & Characters & Missions
+# Project I.G.I. — Story, Characters & Missions
 
 ## The Story, Mission by Mission
 
-David Jones and Anya chase a stolen nuclear warhead from Josef and Jach Priboi to Ekk — plus the intro and ending.
+David Jones and Anya chase a stolen nuclear warhead from Josef and Jach Priboi to Ekk — plus the intro, new interlude missions, and ending.
 
 The trail runs from **Josef Priboi** to his uncle **Jach**, the arms dealer who organised the theft, and ends with **Ekk**, a hard-line nationalist who runs her camp from an old KGB redoubt and turns the warhead into a suitcase bomb.
 
-*All story detail below comes from the game's briefings, radio lines and movie subtitles; quotes keep the original spelling.*
+*All original story detail below comes from the game's briefings, radio lines and movie subtitles; quotes keep the original spelling.*
+
+---
+
+## Mission Sequence Overview
+
+1. Trainyard
+2. SAM Base
+3. Military Airbase
+4. **Eagle’s Inferno** *(NEW MISSION)*
+5. **Landing Protocol** *(NEW MISSION)*
+6. **Base of Operations** *(NEW MISSION)*
+7. GOD
+8. Radar Base
+9. Get Priboi
+10. Border Crossing
+11. Re-Supply
+12. Missile Trainyard
+13. Defend Priboi
+14. Eagle's Nest I
+15. Eagle's Nest II
+16. Nuclear Infiltration
+17. Finding The Bomb
 
 ---
 
@@ -32,126 +54,6 @@ Then transition to gameplay. In multiplayer, other characters can stand or sit i
 
 ---
 
-# Project IGI Missions
-
-## Original Sequence (with new missions inserted)
-1. Trainyard
-2. SAM Base
-3. Military Airbase
-4. **Eagle’s Inferno** *(NEW MISSION)*
-5. **Landing Protocol** *(NEW MISSION)*
-6. **Base of Operations** *(NEW MISSION)*
-7. GOD
-8. Radar Base
-9. Get Priboi
-10. Border Crossing
-11. Re-Supply
-12. Missile Trainyard
-13. Defend Priboi
-14. Eagle's Nest I
-15. Eagle's Nest II
-16. Nuclear Infiltration
-17. Finding The Bomb
-
----
-
-## Mission 4: "Eagle’s Inferno"
-
-### Mission Context
-At the conclusion of Mission 3, Jones steals an enemy fighter jet to escape hostile territory. However, the enemy quickly mobilizes their air force to intercept him. To ensure his survival, Jones must navigate treacherous airspace, evade advanced defenses, and engage in a high-stakes dogfight.
-
-### Mission Objectives
-* **Phase 1: Escape the Airbase Airspace**
-  * **Takeoff Under Fire:** Jones starts in the cockpit with alarms blaring. Enemy ground forces fire small arms and SAM missiles as Jones powers up the jet and takes off. A cinematic moment showcases Jones narrowly avoiding a missile barrage as he clears the airbase.
-* **Phase 2: Survive the Skies**
-  * **Dogfight with Interceptors:** Engage in a thrilling aerial battle against enemy fighters. Use machine guns, flares, and limited homing missiles to outmaneuver enemies.
-* **Phase 3: Destroy Key Targets**
-  * **Bomb Enemy Defenses:** A radar station and SAM site block Jones’s route to safety. Perform high-speed bombing runs while evading enemy anti-aircraft fire.
-* **Phase 4: Final Escape**
-  * **Run the Canyon:** Fly through a winding canyon to avoid radar detection. Evade final enemy fighters and automated turrets. After clearing the canyon, transition into a cinematic where Jones flies into friendly airspace.
-
-### Gameplay Features
-#### Flight Controls (Simplified for Accessibility)
-* **Rolls and Yaws:** Maneuver to avoid missiles or line up targets.
-* **Speed Boost:** Short bursts for tactical advantage.
-* **Countermeasures:** Deploy flares to throw off heat-seeking missiles.
-
-#### Weapons
-* **Machine Guns:** Unlimited ammo with a moderate cooldown.
-* **Homing Missiles:** Limited supply for dogfights.
-* **Bombs:** Manual targeting for ground objectives.
-
-#### Dynamic Encounters
-* Intense enemy chatter and taunts over the radio.
-* Missile lock warnings and near-miss effects to heighten tension.
-* A dramatic scripted sequence where Jones narrowly avoids a crashing enemy jet or an exploding SAM.
-
-### Key Cinematic Moments
-1. **Takeoff:** Jones narrowly escapes ground fire and missiles as he speeds down the runway. A cinematic angle shows him lifting off with explosions in the background.
-2. **Dogfight Highlight:** A scripted moment where Jones performs a daring maneuver, such as flying through a cloudbank to lose a lock-on or baiting two jets to collide midair.
-3. **Canyon Escape:** As Jones zips through the canyon, a near-miss with falling debris or collapsing rock formations adds cinematic drama.
-4. **Mission End:** Jones enters friendly airspace with a triumphant view of safety ahead. The camera pans to show the enemy’s pursuit behind him.
-
-### Transition to Mission 5
-The mission concludes as Jones's jet takes a direct hit from enemy fire during his final escape. With critical systems failing, he’s forced to eject mid-flight.
-
----
-
-## Mission 5: "Landing Protocol"
-
-### Loading Screen & Intro
-Using the built-in airborne mechanics from *MOH: Spearhead*, the game resumes mid-air: the camera follows Jones as he catapults from the burning jet. The parachute deploys automatically, offering a sweeping cinematic view of the wreckage crashing nearby in the distance. The player is forced to land near the smoke plume, setting the stage.
-
-* **Mission Log Appears:** *Objective: Escape from enemy territory*
-* **Ambient SFX:** Dogs barking, wind howling, distant shouts.
-
-### Gameplay Begins
-Jones has crash-landed deep in enemy territory with only the gear he managed to hold onto. He must stay on the move as relentless enemy patrols and trained German Shepherds hunt him down. The area is crawling with enemy scouts, and the perimeter is tightening with each passing minute. In the distance, Jones spots a radio tower—his only chance to signal for extraction before he’s surrounded.
-
-### Mission Flow
-* **Opening Scene:** The plane is hit mid-air. Jones is ejected and parachutes down nearby as the plane crash-lands. Smoke billows from the wreckage.
-* **Mission Start:** 
-  * *Mission Log:* “Escape from enemy territory.”
-  * *Ambient Sound:* Dogs barking, distant enemy patrols.
-* **Objectives:**
-  1. Navigate the hostile terrain under pressure from enemy patrols and tracking dogs.
-  2. Reach the radio tower and use it to send an emergency extraction signal.
-  3. After activating the radio, destroy the equipment to avoid enemy interception.
-  4. Make your way to the extraction point before enemy forces close in.
-
----
-
-## Mission 6: "Base of Operations"
-
-* **Location:** IGI Command Base
-* **Tone:** Low-intensity, semi-interactive, character-driven
-* **Technical Note:** Utilizes `test_door.pk3`
-
-### Mission Context
-After narrowly escaping from behind enemy lines, Jones is flown back to the IGI base for debriefing and resupply. This interlude offers downtime for the player to explore, test gear, and interact with allies before the next major op.
-
-### Mission Goals
-1. **Debriefing:**
-   * Meet with Anya and the commander for a short debriefing on the previous mission.
-2. **Gear Customization / Shooting Range (Optional):**
-   * Try out weapons in the shooting range.
-   * Participate in target challenges, time trials, or accuracy tests (`test_door.pk3`).
-3. **Story Expansion (Optional Dialogues):**
-   * Short conversations with allies about upcoming threats or previous ops.
-   * Jones might reflect on how close the last mission was to failure.
-   * Intel officer mentions a “black site” called G.O.D starting to go dark.
-4. **Prep for Next Mission:**
-   * Collect updated briefing for Mission 7: **GOD**.
-
-### Gameplay Style & Narrative Function
-* **Gameplay Style:** Exploratory and non-linear with no combat pressure. Allows the player to catch their breath, engage in light narrative, and test game mechanics in a sandbox environment.
-* **Narrative Function:**
-  * Provides pacing before the intensity of *GOD*.
-  * Builds immersion in the IGI world and base infrastructure.
-  * Allows technical systems like weapon upgrades or new gadgets to be introduced in a natural, player-friendly way.
-
----
-
 ## Part One: Finding Josef (Missions 1–3)
 
 ### Mission 1 — Trainyard
@@ -172,9 +74,29 @@ The log shows something odd: there were *"two Pribois on board."* With heavy cho
 
 ---
 
-## Part Two: Jach the Hammer (Missions 4–6)
+## Part Two: Behind Enemy Lines (Missions 4–6) *(New)*
 
-### Mission 4 — GOD
+### Mission 4 — Eagle’s Inferno *(NEW)*
+
+At the conclusion of Mission 3, Jones steals an enemy fighter jet to escape hostile territory. However, the enemy quickly mobilizes their air force to intercept him. To ensure his survival, Jones must navigate treacherous airspace, evade advanced defenses, and engage in a high-stakes dogfight through a winding canyon. 
+
+As Jones enters friendly airspace during his final escape, his jet takes a direct hit from enemy fire. With critical systems failing, he is forced to eject mid-flight.
+
+### Mission 5 — Landing Protocol *(NEW)*
+
+Catapulting from the burning jet, Jones parachutes down near the wreckage deep in enemy territory with only the gear he managed to hold onto. He must stay on the move as relentless enemy patrols and trained German Shepherds hunt him down. 
+
+Spotting a radio tower in the distance, Jones fights through the tightening perimeter to send an emergency extraction signal, destroys the radio equipment to prevent enemy interception, and reaches the extraction point.
+
+### Mission 6 — Base of Operations *(NEW)*
+
+After narrowly escaping from behind enemy lines, Jones is flown back to the IGI Command Base for debriefing and resupply. He meets with Anya and the commander, tests gear in the shooting range, and speaks with allies—including an intel officer who mentions a “black site” called **G.O.D** starting to go dark—before collecting his updated briefing.
+
+---
+
+## Part Three: Jach the Hammer (Missions 7–9)
+
+### Mission 7 — GOD
 
 The flight log leads to a prison. Jones's backup has arrived, led by Captain Harrison, an ex Green Beret. Harrison's men will storm the prison, and Jones covers them as a sniper.
 
@@ -184,7 +106,7 @@ During the assault Anya identifies the second Priboi: **Jach**, aged 45, Josef's
 
 Harrison's team gets Josef out.
 
-### Mission 5 — Radar Base
+### Mission 8 — Radar Base
 
 The debrief was easy, Anya says, because Josef had already been badly beaten, mostly by Jach.
 
@@ -192,7 +114,7 @@ Jach organised the theft, and with over 50 properties the warhead could be anywh
 
 It works, but the news is bad: Jach has already traded the warhead away.
 
-### Mission 6 — Get Priboi
+### Mission 9 — Get Priboi
 
 The target here is Jach, not Josef.
 
@@ -202,9 +124,9 @@ The pilot is wounded, so Jones flies Jach out himself.
 
 ---
 
-## Part Three: Shot Down (Missions 7–10)
+## Part Four: Shot Down (Missions 10–13)
 
-### Mission 7 — Border Crossing
+### Mission 10 — Border Crossing
 
 On the flight out, a woman's voice claiming to be Russian air control orders the helicopter to change course.
 
@@ -214,7 +136,7 @@ She orders her men to bring Priboi to her. When a soldier asks about *"the Engli
 
 Jones wakes up in the snow with a headache. Jach is gone, and so is his gear, map computer included. Anya sends him to a border checkpoint, where he gets on a truck crossing the border.
 
-### Mission 8 — Re-supply
+### Mission 11 — Re-supply
 
 The truck delivers Jones to a forward base of a rapid reaction force.
 
@@ -222,7 +144,7 @@ He breaks out of the infantry base, recovers his map computer and a homing beaco
 
 Anya has one of the unit's own jets bomb it to *"look just like a training accident."* Harrison's people then track Jach to a train.
 
-### Mission 9 — Missile Trainyard
+### Mission 12 — Missile Trainyard
 
 Moving a prisoner by rail tells Anya the enemy is a small group, possibly rogue army officers, perhaps a political extremist.
 
@@ -230,7 +152,7 @@ Jones guesses they want Jach alive to learn how big a threat IGI poses.
 
 Jones gets into the rail yard, keeps the alarms off so the train does not turn back, and boards it.
 
-### Mission 10 — Defend Priboi
+### Mission 13 — Defend Priboi
 
 Jach complains: *"First you kidnap me, and then you loose me."*
 
@@ -240,9 +162,9 @@ After the crash, Jones collects proximity mines and protects Jach until the evac
 
 ---
 
-## Part Four: Ekk (Missions 11–14)
+## Part Five: Ekk (Missions 14–17)
 
-### Mission 11 — Eagle's Nest I
+### Mission 14 — Eagle's Nest I
 
 The woman from the radio is **Ekk**, and Anya has found her base.
 
@@ -250,7 +172,7 @@ Ekk uses an old KGB redoubt in the ruins of a castle as a training camp, on a ro
 
 Jones picks up a sniper rifle, switches the generator back on and rides the cable car to the top.
 
-### Mission 12 — Eagle's Nest II
+### Mission 15 — Eagle's Nest II
 
 Anya explains the castle's past: it has stood since the 1300s, was handed from the KGB to the army in 1990 and was left to rot, until Ekk paid the local commander to look away.
 
@@ -260,13 +182,13 @@ Ekk escapes by helicopter under cloud cover.
 
 Anya learns Ekk is a hard nationalist who wants arms spending at pre-Glasnost levels and hates joint US and Russian anti-missile research. That points to a research facility whose comms just went offline.
 
-### Mission 13 — Nuclear Infiltration
+### Mission 16 — Nuclear Infiltration
 
 The target is a former plutonium refining plant with a working reactor, now used for anti-missile research.
 
 Jones secures the deployment zone, then Anya, Harrison and his men land by chopper.
 
-### Mission 14 — Finding the Bomb
+### Mission 17 — Finding the Bomb
 
 Ekk's men took the plant disguised as support staff.
 
@@ -308,7 +230,7 @@ Jones's handler. She gives every briefing and runs the intercepts. In the last m
 
 ### Josef Priboi
 
-The first target and the first lead. He knew how the warhead was stolen. Freed in mission 4, he gives Anya the codes to Jach's comms channels.
+The first target and the first lead. He knew how the warhead was stolen. Freed in Mission 7 (originally Mission 4), he gives Anya the codes to Jach's comms channels.
 
 ### Jach Priboi
 
@@ -322,16 +244,18 @@ The villain, a hard-line nationalist running her own operation from an old KGB c
 
 Leader of the backup team, call sign **Moses**. He leads the prison assault and the limo ambush.
 
-# Project I.G.I. — Missions
+---
 
-Every briefing and objective, exactly as the games list them.
+# Project I.G.I. — Complete Mission Objectives & Design Docs
 
-- [Project I.G.I. — 14 Missions](https://playigi.com/missions.html#igi1)
+Every briefing, objective, and custom mission specification in sequential order (17 Missions Total).
+
+- [Original Project I.G.I. — 14 Missions](https://playigi.com/missions.html#igi1)
 - [IGI 2: Covert Strike — 19 Missions](https://playigi.com/missions.html#igi2)
 
 ---
 
-## Mission 01 / 14 — Trainyard
+## Mission 01 / 17 — Trainyard
 
 [![Trainyard](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m01.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m01.png)
 
@@ -341,7 +265,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 02 / 14 — SAM Base
+## Mission 02 / 17 — SAM Base
 
 [![SAM Base](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m02.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m02.png)
 
@@ -353,7 +277,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 03 / 14 — Military Airbase
+## Mission 03 / 17 — Military Airbase
 
 [![Military Airbase](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m03.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m03.png)
 
@@ -366,7 +290,75 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 04 / 14 — GOD
+## Mission 04 / 17 — Eagle’s Inferno *(NEW)*
+
+*Escape enemy airspace in the stolen fighter jet*
+
+**Technical Note:** Introduces `airplane_dm.pk3`
+
+### Mission Objectives
+1. **Escape the Airbase Airspace (Takeoff Under Fire):** Start in the cockpit with alarms blaring, power up the jet, and evade small arms and SAM fire during takeoff.
+2. **Survive the Skies (Dogfight with Interceptors):** Engage enemy fighters using machine guns, flares, and limited homing missiles.
+3. **Destroy Key Targets (Bomb Enemy Defenses):** Perform high-speed bombing runs on the radar station and SAM site blocking the route to safety.
+4. **Final Escape (Run the Canyon):** Fly through a winding canyon to avoid radar detection, evading final enemy fighters and automated turrets before reaching friendly airspace.
+
+### Gameplay Features & Mechanics
+- **Flight Controls (Simplified for Accessibility):**
+  - **Rolls and Yaws:** Maneuver to avoid missiles or line up targets.
+  - **Speed Boost:** Short bursts for tactical advantage.
+  - **Countermeasures:** Deploy flares to throw off heat-seeking missiles.
+- **Weapons:**
+  - **Machine Guns:** Unlimited ammo with a moderate cooldown.
+  - **Homing Missiles:** Limited supply for dogfights.
+  - **Bombs:** Manual targeting for ground objectives.
+- **Dynamic Encounters:** Intense enemy radio chatter/taunts, missile lock warnings, near-miss effects, and scripted mid-air hazards.
+
+### Key Cinematic Moments
+1. **Takeoff:** Narrowly escaping ground fire and missiles down the runway with explosions in the background.
+2. **Dogfight Highlight:** Flying through a cloudbank to break lock-on or baiting two jets into a midair collision.
+3. **Canyon Escape:** Narrowly dodging falling debris and collapsing rock formations.
+4. **Mission End & Transition:** Entering friendly airspace before taking a direct hit from enemy fire, forcing Jones to eject mid-flight.
+
+---
+
+## Mission 05 / 17 — Landing Protocol *(NEW)*
+
+*Escape from enemy territory after ejecting*
+
+**Technical Note:** Introduces `ai_dogs_partol` and utilizes built-in airborne mechanics from *MOH: Spearhead*.
+
+### Loading Screen & Intro
+Using the built-in airborne mechanics from *MOH: Spearhead*, the game resumes mid-air as Jones catapults from the burning jet. The parachute deploys automatically with a sweeping view of the wreckage crashing nearby, forcing the player to land near the smoke plume.
+- **Ambient SFX:** Dogs barking, wind howling, distant shouts.
+
+### Mission Objectives
+1. Navigate the hostile terrain under pressure from enemy patrols and tracking German Shepherds.
+2. Reach the radio tower and use it to send an emergency extraction signal.
+3. After activating the radio, destroy the equipment to avoid enemy interception.
+4. Make your way to the extraction point before enemy forces close in.
+
+---
+
+## Mission 06 / 17 — Base of Operations *(NEW)*
+
+*Debrief and resupply at IGI Command Base*
+
+**Location:** IGI Command Base | **Tone:** Low-intensity, semi-interactive, character-driven  
+**Technical Note:** Utilizes `test_door.pk3`
+
+### Mission Goals
+1. **Debriefing:** Meet with Anya and the commander for a short debriefing on the previous mission.
+2. **Gear Customization / Shooting Range (Optional):** Try out weapons in the shooting range and participate in target challenges, time trials, or accuracy tests (`test_door.pk3`).
+3. **Story Expansion (Optional Dialogues):** Speak with allies about upcoming threats or previous ops; an intel officer mentions a “black site” called G.O.D starting to go dark.
+4. **Prep for Next Mission:** Collect the updated briefing for Mission 7: **GOD**.
+
+### Gameplay Style & Narrative Function
+- **Gameplay Style:** Exploratory and non-linear with no combat pressure, allowing the player to test game mechanics in a sandbox environment.
+- **Narrative Function:** Provides pacing before the intensity of *GOD*, builds immersion in the IGI world, and naturally introduces weapon upgrades or new gadgets.
+
+---
+
+## Mission 07 / 17 — GOD
 
 [![GOD](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m04.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m04.png)
 
@@ -377,7 +369,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 05 / 14 — Radar Base
+## Mission 08 / 17 — Radar Base
 
 [![Radar Base](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m05.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m05.png)
 
@@ -389,7 +381,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 06 / 14 — Get Priboi
+## Mission 09 / 17 — Get Priboi
 
 [![Get Priboi](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m06.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m06.png)
 
@@ -402,7 +394,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 07 / 14 — Border Crossing
+## Mission 10 / 17 — Border Crossing
 
 [![Border Crossing](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m07.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m07.png)
 
@@ -416,7 +408,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 08 / 14 — Re-supply
+## Mission 11 / 17 — Re-supply
 
 [![Re-supply](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m08.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m08.png)
 
@@ -431,7 +423,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 09 / 14 — Missile Trainyard
+## Mission 12 / 17 — Missile Trainyard
 
 [![Missile Trainyard](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m09.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m09.png)
 
@@ -443,7 +435,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 10 / 14 — Defend Priboi
+## Mission 13 / 17 — Defend Priboi
 
 [![Defend Priboi](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m10.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m10.png)
 
@@ -454,7 +446,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 11 / 14 — Eagle's Nest I
+## Mission 14 / 17 — Eagle's Nest I
 
 [![Eagle's Nest I](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m11.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m11.png)
 
@@ -466,7 +458,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 12 / 14 — Eagle's Nest II
+## Mission 15 / 17 — Eagle's Nest II
 
 [![Eagle's Nest II](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m12.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m12.png)
 
@@ -476,7 +468,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 13 / 14 — Nuclear Infiltration
+## Mission 16 / 17 — Nuclear Infiltration
 
 [![Nuclear Infiltration](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m13.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m13.png)
 
@@ -493,7 +485,7 @@ Every briefing and objective, exactly as the games list them.
 
 ---
 
-## Mission 14 / 14 — Finding the bomb
+## Mission 17 / 17 — Finding the bomb
 
 [![Finding the bomb](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m14.png)](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/project-igi/m14.png)
 
@@ -505,4 +497,3 @@ Every briefing and objective, exactly as the games list them.
 ---
 
 *Project I.G.I. © Innerloop Studios / Eidos Interactive, 2000.*
-
