@@ -14,11 +14,11 @@ This repository holds the engine and game source code (codename *Poseidon*) - th
 ## Poseidon WASM (browser build)
 [https://motionmark.itch.io/poseidonwasm](https://motionmark.itch.io/poseidonwasm)
 
+## PROJECT I.G.I
+[PROJECT IGI README](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md)
+
 ## Operation Flashpoint: Cold War Crisis
 [![Operation Flashpoint: Cold War Crisis](https://raw.githubusercontent.com/igiteam/openofpcwc/refs/heads/main/operation-flashpoint-find-the-car-mission.png)](https://ytembed.macosxjs.com/?Q0gzSnN3T3B6SVE)
-
-## PROJECT I.G.I
-[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fopenofpcwc-projectigi%2Fblob%2Fmain%2Fproject-igi%2FREADME.md)
 
 ![https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png](https://raw.githubusercontent.com/igiteam/openofpcwc-projectigi/refs/heads/main/david_jones.png)
 
