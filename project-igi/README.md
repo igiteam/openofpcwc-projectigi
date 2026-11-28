@@ -25,7 +25,7 @@ The game opens with a caption, **"Somewhere in Russia."**, and a man named Pribo
 
 > "My name is David Jones. I work for the I.G.I. Special Forces. My mission—"
 
-Cut. Camera shifts to **ANYA**, inside the helicopter, talking to Jones via computer link. The player is locked in first person — can't move — but can see Jones's legs.
+Cut. Camera shifts to **ANYA**, inside the helicopter, talking to Jones. The player is locked in first person — can't move — but can see Jones's legs.
 
 **Music cue:** *"Keep Hope Alive"* by The Crystal Method.
 
