@@ -57,8 +57,6 @@ Then transition to gameplay. In multiplayer, other characters can stand or sit i
 
 ## Mission 4: "Eagle’s Inferno"
 
-**Technical Note:** Introduces `airplane_dm.pk3`
-
 ### Mission Context
 At the conclusion of Mission 3, Jones steals an enemy fighter jet to escape hostile territory. However, the enemy quickly mobilizes their air force to intercept him. To ensure his survival, Jones must navigate treacherous airspace, evade advanced defenses, and engage in a high-stakes dogfight.
 
@@ -100,8 +98,6 @@ The mission concludes as Jones's jet takes a direct hit from enemy fire during h
 ---
 
 ## Mission 5: "Landing Protocol"
-
-**Technical Note:** Introduces `ai_dogs_partol` and utilizes built-in airborne mechanics from *MOH: Spearhead*.
 
 ### Loading Screen & Intro
 Using the built-in airborne mechanics from *MOH: Spearhead*, the game resumes mid-air: the camera follows Jones as he catapults from the burning jet. The parachute deploys automatically, offering a sweeping cinematic view of the wreckage crashing nearby in the distance. The player is forced to land near the smoke plume, setting the stage.
@@ -153,6 +149,8 @@ After narrowly escaping from behind enemy lines, Jones is flown back to the IGI 
   * Provides pacing before the intensity of *GOD*.
   * Builds immersion in the IGI world and base infrastructure.
   * Allows technical systems like weapon upgrades or new gadgets to be introduced in a natural, player-friendly way.
+
+---
 
 ## Part One: Finding Josef (Missions 1–3)
 
