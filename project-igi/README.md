@@ -10,27 +10,6 @@ The trail runs from **Josef Priboi** to his uncle **Jach**, the arms dealer who 
 
 ---
 
-## Mission Sequence Overview
-
-1. Trainyard
-2. SAM Base
-3. Military Airbase
-4. **Eagle’s Inferno** *(NEW MISSION)*
-5. **Landing Protocol** *(NEW MISSION)*
-6. **Base of Operations** *(NEW MISSION)*
-7. GOD
-8. Radar Base
-9. Get Priboi
-10. Border Crossing
-11. Re-Supply
-12. Missile Trainyard
-13. Defend Priboi
-14. Eagle's Nest I
-15. Eagle's Nest II
-16. Nuclear Infiltration
-17. Finding The Bomb
-
----
 
 ## The Intro Movie
 
@@ -51,6 +30,28 @@ Cut. Camera shifts to **ANYA**, inside the helicopter, talking to Jones via comp
 **Music cue:** *"Keep Hope Alive"* by The Crystal Method.
 
 Then transition to gameplay. In multiplayer, other characters can stand or sit in the helicopter — same as the original Operation Flashpoint.
+
+---
+
+## Mission Sequence Overview
+
+1. Trainyard
+2. SAM Base
+3. Military Airbase
+4. **Eagle’s Inferno** *(NEW MISSION)*
+5. **Landing Protocol** *(NEW MISSION)*
+6. **Base of Operations** *(NEW MISSION)*
+7. GOD
+8. Radar Base
+9. Get Priboi
+10. Border Crossing
+11. Re-Supply
+12. Missile Trainyard
+13. Defend Priboi
+14. Eagle's Nest I
+15. Eagle's Nest II
+16. Nuclear Infiltration
+17. Finding The Bomb
 
 ---
 
